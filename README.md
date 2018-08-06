@@ -1,14 +1,3 @@
-# SFDX  App
-
-## Dev, Build and Test
-
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
+Lightning datatable component with 2018 features.
 
 
